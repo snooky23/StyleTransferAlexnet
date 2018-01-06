@@ -10,5 +10,11 @@ Keep in mind that running the program for the first time will take a while becau
 ## History
 Alexnet is a Deep Convolutional Neural Network for image classification that won the ILSVRC-2012 competition and achieved a winning top-5 test error rate of 15.3%, compared to 26.2% achieved by the second-best entry.
 
+## Results
+
+![Alt text](https://github.com/snooky23/StyleTransferAlexnet/blob/master/results/1.png)
+
+
+![Alt text](https://github.com/snooky23/StyleTransferAlexnet/blob/master/results/2.png)
 
 
